@@ -1,5 +1,7 @@
 .text-center{
     text-align: center;
+    position: relative;
+    margin-right: 100px;
 }
 
 .bd-red{
